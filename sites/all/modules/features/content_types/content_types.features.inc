@@ -10,7 +10,7 @@
 function content_types_node_info() {
   $items = array(
     'communities' => array(
-      'name' => t('Communities'),
+      'name' => t('Community'),
       'base' => 'node_content',
       'description' => '',
       'has_title' => '1',
